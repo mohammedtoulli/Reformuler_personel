@@ -1,0 +1,29 @@
+body {
+    text-align: center;
+    background-color: #6d6d6d;
+    font-family: Arial, sans-serif;
+}
+.box {
+    width: 60%;
+    margin: auto;
+    padding: 20px;
+    background: white;
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px gray;
+    margin-top: 100px;
+}
+input, button {
+    margin-top: 10px;
+    padding: 8px;
+    width: 50%;
+    border-radius: 10px;
+    margin-left: 20px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.boton{
+    display:flex ;
+    
+}
